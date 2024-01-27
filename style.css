@@ -17,6 +17,7 @@ button, p{
     color: azure;
     font-size: larger;
     font-weight: bolder;
+    font-family: Helvetica, sans-serif;
 }
 @media  screen and (max-width: 650px) {
     button, p{
